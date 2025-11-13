@@ -6,5 +6,4 @@ contenido adicional
 
 ## contenido adicional
 
-=======================
->>>>>>>>>>>>>>>>>>
+cambios realizados en rama 2 
