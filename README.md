@@ -5,3 +5,6 @@ Repositorio para trabajar en remoto
 contenido adicional
 
 ## contenido adicional
+
+=======================
+>>>>>>>>>>>>>>>>>>
